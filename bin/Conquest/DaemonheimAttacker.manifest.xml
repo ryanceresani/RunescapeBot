@@ -1,0 +1,12 @@
+<manifest>
+	<main-class>Conquest.DaemonheimAttacker</main-class>
+	<name>Daemonheim Attacker</name>
+	<description>ok</description>
+	<version>0.0.1</version>
+	<compatibility>
+		<game-type>Dark</game-type>
+	</compatibility>
+	<categories>
+		<category>WOODCUTTING</category>
+	</categories>
+</manifest>
